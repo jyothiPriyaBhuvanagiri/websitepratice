@@ -1,0 +1,98 @@
+body{
+    font-family: cursive;
+
+}
+h1{
+    font-family: cursive;
+    font-size: 3.5rem;
+    line-height: 5rem;
+}
+h2{
+    font-family: cursive;
+    font-size: 6rem;
+    line-height: 2px;
+}
+
+
+
+#title{
+background-color: darksalmon;
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15% 3% 15%;
+}
+
+
+              /* navigation bar*/
+
+
+.navbar-brand{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+.navbar{
+    padding:  0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: cursive;
+}
+.download-button{
+    margin-top: 5%;
+}
+.title-image{
+    width: 40%;
+    transform: rotate(25deg);
+}
+#features{
+    padding: 7% 15%;
+}
+.styling-box{
+    text-align: center;
+    padding:5%;
+    font-family: cursive;
+}
+p{
+    color: darkslategrey;
+}
+.icon{
+    color: palevioletred;
+
+}
+.icon:hover{
+    color: blue;
+
+    /* testimonials*/
+
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: coral;
+}
+.testimonial-page{
+    width: 10%;
+    border-radius: 100px;
+    padding-top: 2px;
+}
+.carousel-item{
+
+}
+ /* press section*/
+#press
+{
+    background-color: coral;
+    text-align:center;
+    padding-bottom: 3px;
+}
+.logos{
+    width: 15%;
+    margin:20px 20px;
+    font-size: 1px;
+}
